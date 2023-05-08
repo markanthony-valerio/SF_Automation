@@ -84,5 +84,6 @@
 	<classpathentry kind="lib" path="C:/Users/HP/Documents/Selenium Setup/selenium-java-4.9.0/lib/opentelemetry-semconv-1.25.0-alpha.jar"/>
 	<classpathentry kind="lib" path="C:/Users/HP/Documents/Selenium Setup/selenium-java-4.9.0/lib/reactive-streams-1.0.4.jar"/>
 	<classpathentry kind="lib" path="C:/Users/HP/Documents/Selenium Setup/selenium-java-4.9.0/lib/slf4j-api-2.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/Selenium Setup/chromedriver_win32.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
