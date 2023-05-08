@@ -85,5 +85,6 @@
 	<classpathentry kind="lib" path="C:/Users/HP/Documents/Selenium Setup/selenium-java-4.9.0/lib/reactive-streams-1.0.4.jar"/>
 	<classpathentry kind="lib" path="C:/Users/HP/Documents/Selenium Setup/selenium-java-4.9.0/lib/slf4j-api-2.0.7.jar"/>
 	<classpathentry kind="lib" path="C:/Users/HP/Documents/Selenium Setup/chromedriver_win32.zip"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-20"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
