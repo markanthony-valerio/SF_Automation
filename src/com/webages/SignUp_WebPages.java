@@ -12,6 +12,7 @@ public class SignUp_WebPages
 	By password_Field = By.xpath("//*[@id=\"password\"]/div/input");
 	By confirmPassword_Field = By.xpath("//*[@id=\"confirm-password\"]/div/input");
 	By termsAndCondition_TickBox = By.xpath("//*[@id=\"root\"]/div/div[2]/div/form/div[1]/div/div/div[5]/div/div/div/div[1]/div/label/div[1]");
+	By signUp_Button = By.xpath("//*[@id=\"root\"]/div/div[2]/div/form/div[2]/button");
 	
 	public SignUp_WebPages(WebDriver driver)
 	{
@@ -43,7 +44,10 @@ public class SignUp_WebPages
 		driver.findElement(termsAndCondition_TickBox).click();
 	}
 	
-	
+	public void clickSignUpButton()
+	{
+		driver.findElement(signUp_Button).click();
+	}
 	
 	
 	
